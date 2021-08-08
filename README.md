@@ -1,2 +1,2 @@
-# Sounds-of-Genshin
-Design a page showcasing Genshin Impact Soundtracks 
+# Sounds-of-Gacha
+Design a page showcasing Songs and Soundtracks that are available on Spotify from various Gacha Games  
